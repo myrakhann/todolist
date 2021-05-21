@@ -1,7 +1,7 @@
 # To-do List
 Project submission for Carte Blanche
 
-Download the folder "todoapp"
+Download the folder in a folder named "todoapp"
 Open CMD and run the following commands to install some dependencies
 1. pip install whitenoise
 2. pip install django-crispy-forms
